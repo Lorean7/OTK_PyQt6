@@ -1,0 +1,5 @@
+user={
+    'login': '',
+    'id':'',
+    'avatar': ''
+}
